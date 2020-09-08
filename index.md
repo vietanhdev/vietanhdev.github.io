@@ -1,4 +1,6 @@
-## Welcome to https://vietanhdev.com
+## Welcome to my Github Project site
+
+This page is not my official website. I put it here to add my domain for my Github projects.
 
 ### Please choose where to go:
 
