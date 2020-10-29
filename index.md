@@ -5,7 +5,7 @@ This page is not my official website. I put it here to add my domain for my Gith
 ### Please choose where to go:
 
 * My blog: <https://aicurious.io/>
-* About me: <https://aicurious.io/vietanhdev>
+* About me: <https://aicurious.io/about/>
 * Portfolio: <https://aicurious.io/portfolio>
 * Contact page: <https://aicurious.io/contact>
 
